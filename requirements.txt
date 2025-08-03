@@ -1,0 +1,9 @@
+scikit-learn==1.5.1
+python-multipart
+jinja2
+pyyaml
+uvicorn
+fastapi 
+numpy 
+pandas
+pydantic[email]
