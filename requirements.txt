@@ -7,3 +7,5 @@ fastapi
 numpy 
 pandas
 pydantic[email]
+uvicorn
+gunicorn
