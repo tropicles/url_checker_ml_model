@@ -4,7 +4,7 @@ jinja2
 pyyaml
 uvicorn
 fastapi 
-numpy==2.0.0
+numpy
 pandas
 pydantic[email]
 uvicorn
